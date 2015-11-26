@@ -21,7 +21,7 @@ while True:
 	myLcd.setCursor(0,0)
 
 	# Print it.
-	text = str(Hallo Welt)
+	text = str('Hallo Welt')
 	myLcd.write(text)
 	
 	# Second row
