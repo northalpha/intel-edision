@@ -26,6 +26,6 @@ while True:
 	
 	# Second row
 	myLcd.setCursor(1,0)
-	mcLcd.write('second line')
+	myLcd.write('second line')
 
 	time.sleep(1)
